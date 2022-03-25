@@ -3,12 +3,14 @@ var result = 12;
 var int = 5;
 var usefulInformation = true;
 
-    ### Float, boolean and string args.
-    ### Functions.
-    ### Maps.
-    ### Tests.
-    ### Type-checker.
-    ### Classes.
+    ### This is a delightful and inspiring comment.
+    ### So is this.
+    ### Triple hashtag introduces the comment, while dot separates it.
+    ### My love, when I gaze on thy beautiful face
+        Careering along, yet always in place,
+        The thought has often crossed my mind,
+        if I shall ever see,
+        thy glorious behind.
 
 function subtract(a,b) => a - b;
 function test() => return "hey" + "dude";

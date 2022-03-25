@@ -24,8 +24,8 @@ public class Parser {
 
     public Parser(List<Token> tokens) {
         this.tokens = new ArrayList<>(tokens);
-        this.tokenIndex = -1;
-        advance();
+        this.tokenIndex = 0;
+        updateCurrentToken();
     }
 
     public void advance() {
